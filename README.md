@@ -1,7 +1,7 @@
 # Taller-2-de-Sistemas-operativos-
 
 Requisitos para correr el taller
-1. Tener Docker instalad
+1. Tener Docker instalado en el sistema
 
 CMD COMMANDS:
 1. docker build -t taller-procesos-linux .
